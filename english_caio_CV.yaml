@@ -1,0 +1,241 @@
+cv:
+  name: "Caio Bonani Carvalho"
+  # location: "Taubaté, SP"
+  email: "caio.bonani@unifesp.br"
+  phone: "tel:+55-12-99606-3068"
+  social_networks:
+    - network: "LinkedIn"
+      username: "caio-bonani"
+    - network: "GitHub"
+      username: "CaioBonani"
+
+  sections:
+    Summary:
+      - "Bachelor's in Science and Technology and currently pursuing a Bachelor's in Computer Science at the Institute of Science and Technology (ICT-UNIFESP) in São José dos Campos, SP. Also a Technical degree in Mechanics and Occupational Safety. Curious, scholarly, and passionate about knowledge. I've always sought all kinds of information. My main interests are in Software Development (focused on Backend, API creation, and databases), Infrastructure/Cloud/DevOps, System Architecture/Requirements, and Green Computing. I possess knowledge in various concepts, technologies, tools, and programming languages. Quick learner in new environments and good at communicating with different teams and areas."
+
+    Academic Education:
+      - institution: "Universidade Federal de São Paulo (UNIFESP)"
+        degree: "BSc"
+        area: "Computer Science"
+        start_date: 2025
+
+      - institution: "Universidade Federal de São Paulo (UNIFESP)"
+        degree: "Bsc"
+        area: "Science and Technology"
+        start_date: 2021
+        end_date: 2025
+
+      - institution: "Serviço Nacional de Aprendizagem Industrial (SENAI)"
+        degree: "Technical Degree"
+        area: "Mechanics"
+        start_date: 2020
+        end_date: 2022
+
+      - institution: "Serviço Nacional de Aprendizagem Comercial (SENAC)"
+        degree: "Technical Degree"
+        area: "Occupational Safety"
+        start_date: 2018
+        end_date: 2020
+
+      - institution: "Serviço Nacional de Aprendizagem Industrial (SENAI)"
+        degree: "Industrial Apprenticeship Course (CAI)"
+        area: "Machining Mechanics"
+        start_date: 2017
+        end_date: 2019
+
+    Experience:
+      - company: "Freelance"
+        position: "Backend Software Engineer and DevOps/Cloud Engineer"
+        location: "Remote"
+        start_date: "2024-12"
+        highlights:
+          - "Backend development and responsible for the Cloud/DevOps infrastructure of the Ovo na Mesa farm website. The company is located in Jacareí, São Paulo state."
+          - "Development of APIs using GO and the GIN and GORM libraries."
+          - "Payment integration with PagBank/PagSeguro API."
+          - "Creation and maintenance of MySQL database."
+          - "Creation of SQL queries."
+          - "Cloud environment configuration (Google Cloud Platform, including Cloud Run, Cloud SQL, and Compute Engine services)."
+          - "Source code versioning with Git and GitHub."
+          - "System architecture design."
+          - "Use of Kanban boards for task management."
+
+      - company: "Fibrasil Infraestrutura e Fibra Ótica"
+        position: "Intern in Architecture and Data Analytics"
+        location: "Remote"
+        start_date: "2024-04"
+        highlights:
+          - "Intern in the architecture and data analysis areas. Fibrasil is a joint venture between Telefónica (Spain)/Vivo (Brazil) and a Canadian investment fund, providing Neutral Fiber services."
+          - "Development of software/process architecture drawings."
+          - "Documentation of processes."
+          - "Configuration and use of Data Analytics cloud environment on Google Cloud Platform (BigQuery, Cloud Run, Cloud Functions, Cloud Storage, Composer (Airflow, Dataproc (spark), IAM, Cloud Scheduler, etc.)."
+          - "Configuration and use of Virtual Machines."
+          - "Creation and maintenance of ETL workflows in Apache NiFi."
+          - "DevOps environment setup (CI/CD Pipelines) in Azure DevOps."
+          - "Development of scripts in Python and Shell Script."
+          - "GIS (Geographic Information System) development with Geoserver."
+
+      - company: "Aprenda Certo"
+        position: "DevOps Intern"
+        location: "Remote"
+        start_date: "2024-01"
+        end_date: "2024-04"
+        highlights:
+          - "DevOps intern, assisting in DevOps consultancy for foreign companies contracting services from [BairesDev](https://www.bairesdev.com)."
+          - "Development of CI/CD environment using GitHub Action/Workflow."
+          - "GitHub integration with Slack."
+          - "GitHub repository and organization management using Terraform."
+
+      - company: "Fundação de Amparo à Pesquisa do Estado de São Paulo - FAPESP"
+        position: "Undergraduate Researcher"
+        location: "São José dos Campos, SP"
+        start_date: "2023-10"
+        end_date: "2023-12"
+        highlights:
+          - "CNPq scholarship moved to FAPESP. Scientific initiation scholarship holder."
+          - "Creation of a private blockchain network using Hyperledger Besu technology."
+          - "Containerization of network nodes using Docker."
+          - "Deployment of containers on Microsoft Azure cloud."
+          - "Development of Ethereum Smart Contracts in Solidity."
+
+      - company: "Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq"
+        position: "Undergraduate Researcher"
+        location: "São José dos Campos, SP"
+        start_date: "2022-08"
+        end_date: "2023-09"
+        highlights:
+          - "Technological initiation scholarship holder."
+          - "Development of a WEB3 application using HTML, CSS, JavaScript, and TypeScript with React framework."
+          - "Development of a Rust API to be used with the React frontend."
+          - "Development of Smart Contracts in Rust, on the Solana Blockchain network."
+
+      - company: "Grupo Hydrostec"
+        position: "Maintenance Technical Intern"
+        location: "Taubaté, SP"
+        start_date: "2021-12"
+        end_date: "2022-05"
+        highlights:
+          - "Management activities such as control of equipment in external maintenance, purchases made by the department, preventive maintenance, etc."
+          - "Control of invoices, negotiation, and purchase/contract of external equipment and services."
+          - "Use of ERP software – Senior Sapiens – for generating Purchase Order, Service Order (OS), and material requisition from stock."
+
+    Projects:
+      - name: "[Compiler](https://github.com/CaioBonani/compiler)"
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - "Development of a compiler for the C- (C minus) language, based on the Tiny compiler. C minus is a language based on pure C but reduced."
+          - "Development of the 3 compilation stages: Lexical Analysis, Syntax Analysis, and Semantic Analysis. Also, the Abstract Syntax Tree (AST), Symbol Table, and Intermediate Code."
+          - "Tools Used: C, Makefile, Flex, and Bison."
+
+    Skills:
+      - label: "Languages"
+        details: "C/C++, Python, Go, JavaScript/TypeScript, SQL, Rust, and Java."
+      - label: "Technologies"
+        details: "Linux, Git, REST APIs, Apache NiFi, SonarQube, Docker, Cloud, DevOps, Terraform."
+design:
+  theme: "sb2nov"
+  page:
+    size: "a4"
+    top_margin: "2cm"
+    bottom_margin: "2cm"
+    left_margin: "2cm"
+    right_margin: "2cm"
+    show_page_numbering: false
+    show_last_updated_date: true
+  colors:
+    text: "rgb(0, 0, 0)"
+    name: "rgb(0, 0, 0)"
+    connections: "rgb(0, 0, 0)"
+    section_titles: "rgb(0, 0, 0)"
+    links: "rgb(0, 79, 144)"
+    last_updated_date_and_page_numbering: "rgb(128, 128, 128)"
+  text:
+    font_family: "New Computer Modern"
+    font_size: "10pt"
+    leading: "0.6em"
+    alignment: "justified"
+    date_and_location_column_alignment: "right"
+  links:
+    underline: false
+    use_external_link_icon: true
+  header:
+    name_font_family: "New Computer Modern"
+    name_font_size: "30pt"
+    name_bold: true
+    # small_caps_for_name: false
+    photo_width: "3.5cm"
+    vertical_space_between_name_and_connections: "0.7cm"
+    vertical_space_between_connections_and_first_section: "0.7cm"
+    horizontal_space_between_connections: "0.5cm"
+    connections_font_family: "New Computer Modern"
+    separator_between_connections: ""
+    use_icons_for_connections: true
+    # use_urls_as_placeholders_for_connections: false
+    # make_connections_links: true
+    alignment: "center"
+  section_titles:
+    type: "with-full-line"
+    font_family: "New Computer Modern"
+    font_size: "1.4em"
+    bold: true
+    small_caps: false
+    line_thickness: "0.5pt"
+    vertical_space_above: "0.5cm"
+    vertical_space_below: "0.3cm"
+  entries:
+    date_and_location_width: "4.15cm"
+    left_and_right_margin: "0.2cm"
+    horizontal_space_between_columns: "0.1cm"
+    vertical_space_between_entries: "1.5em"
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: "◦"
+    # nested_bullet: "-"
+    top_margin: "0.25cm"
+    left_margin: "0.4cm"
+    vertical_space_between_highlights: "0.25cm"
+    horizontal_space_between_bullet_and_highlight: "0.5em"
+    summary_left_margin: "0cm"
+  entry_types:
+    one_line_entry:
+      template: "**LABEL:** DETAILS"
+    education_entry:
+      main_column_first_row_template: |-
+        **INSTITUTION**
+        *DEGREE in AREA*
+      degree_column_template:
+      degree_column_width: "1cm"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    normal_entry:
+      main_column_first_row_template: "**NAME**"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    experience_entry:
+      main_column_first_row_template: |-
+        **POSITION**
+        *COMPANY*
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+locale:
+  phone_number_format: "national"
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: "MONTH_ABBREVIATION YEAR"
+  to: "-"
+  language: "en"

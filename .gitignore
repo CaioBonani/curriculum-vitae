@@ -1,5 +1,11 @@
-pdfs/__pycache__/
-pdfs/*.typ
-pdfs/*.png
-pdfs/*.html
-pdfs/*.md
+pdf/__pycache__/
+pdf/*.typ
+pdf/*.png
+pdf/*.html
+pdf/*.md
+
+english_pdf/__pycache__/
+english_pdf/*.typ
+english_pdf/*.png
+english_pdf/*.html
+english_pdf/*.md
