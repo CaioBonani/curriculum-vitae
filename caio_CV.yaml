@@ -1,0 +1,272 @@
+cv:
+  name: "Caio Bonani Carvalho"
+  # location: "Taubaté, SP"
+  email: "caio.bonani@unifesp.br"
+  phone: "tel:+55-12-99606-3068"
+  social_networks:
+    - network: "LinkedIn"
+      username: "caio-bonani"
+    - network: "GitHub"
+      username: "CaioBonani"
+
+  sections:
+    Resumo:
+      - "Bacharel em Ciência e Tecnologia e cursando Ciência da Computação pelo Instituto de Ciência e Tecnologia (ICT-UNIFESP) de São José dos Campos, SP. Também Técnico em Mecânica e Segurança do Trabalho.  Curioso, Erudito e Apaixonado por conhecimento. Desde sempre busco todo tipo de informação. Meus interesses são, principalmente, em Desenvolvimento de Software (foco em Backend, criação de APIs e bancos de dados), Infraestrutura/Cloud/DevOps, Arquitetura de Sistemas/Requisitos e Computação Verde. Possuo conhecimento em diversos(as) conceitos, tecnologias, ferramentas e linguagens de programações. Aprendizado rápido em ambientes novos e facilidade na comunicação com diferentes times e áreas."
+
+    Formação Acadêmica:
+      - institution: "Universidade Federal de São Paulo (UNIFESP)"
+        degree: "Bacharelado"
+        area: "Ciência da Computação"
+        start_date: 2025
+
+      - institution: "Universidade Federal de São Paulo (UNIFESP)"
+        degree: "Bacharelado Interdisciplinar"
+        area: "Ciência e Tecnologia"
+        start_date: 2021
+        end_date: 2025
+
+      - institution: "Serviço Nacional de Aprendizagem Industrial (SENAI)"
+        degree: "Técnico"
+        area: "Mecânica"
+        start_date: 2020
+        end_date: 2022
+
+      - institution: "Serviço Nacional de Aprendizagem Comercial (SENAC)"
+        degree: "Técnico"
+        area: "Segurança do Trabalho"
+        start_date: 2018
+        end_date: 2020
+
+      - institution: "Serviço Nacional de Aprendizagem Industrial (SENAI)"
+        degree: "Curso de Aprendizagem Industrial (CAI)"
+        area: "Mecânica de Usinagem"
+        start_date: 2017
+        end_date: 2019
+
+    Experiência:
+      - company: "Freelance"
+        position: "Backend Software Engineer e DevOps/Cloud Engineer"
+        location: "Remoto"
+        start_date: "2024-12"
+        highlights:
+          - "Desenvolvimento do Backend e responsável pela parte de Infraestrutura Cloud/DevOps do site da granja Ovo na Mesa. Empresa localizada em Jacareí, no estado de São Paulo."
+          - "Desenvolvimento de APIs utilizando GO e as bibliotecas GIN e GORM."
+          - "Pagamento com integração à API do PagBank/PagSeguro."
+          - "Criação e manutenção do Banco de Dados MySQL."
+          - "Criação de Queries SQL."
+          - "Configuração do ambiente Cloud (Google Cloud Plataform incluindo os serviços Cloud Run, Cloud SQL e Compute Engine."
+          - "Versionamento do código-fonte com Git e GitHub."
+          - "Desenho de arquitetura dos sistemas."
+          - "Utilização de quadros Kanban para gerenciamento das Tasks."
+
+      - company: "Fibrasil Infraestrutura e Fibra Ótica"
+        position: "Estagiário em Architecture e Data Analytics"
+        location: "Remoto"
+        start_date: "2024-04"
+        highlights:
+          - "Estagiário nas áreas de arquitetura e análise de dados. FiBrasil é uma Joint-Venture, entre a Telefónica(Espanha)/Vivo(Brasil) e um fundo de investimentos canadense, da área de Telecomunicaçõe, oferencendo serviços de Fibra Neutra."
+          - "Elaboração de desenhos de arquitetura de Softwares/Processos."
+          - "Documentação de processos."
+          - "Configuração e uso do ambiente Cloud de Data Analytics, no Google Cloud Plataform (BigQuery, Cloud Run, Cloud Functions, Cloud Storage, Composer (Airflow, Dataproc (spark), IAM, Cloud Scheduler etc)."
+          - "Configuração e uso de Máquinas Virtuais."
+          - "Criação e manutenção de fluxos ETL no Apache NiFi."
+          - "Configuração do ambiente DevOps (Pipelines CI/CD) no Azure DevOps."
+          - "Desenvolvimento de scripts em Python e Shell Script."
+          - "Desenvolvimento GIS (Geographic Information System) com o Geoserver."
+
+      - company: "Aprenda Certo"
+        position: "Estagiário de DevOps"
+        location: "Remoto"
+        start_date: "2024-01"
+        end_date: "2024-04"
+        highlights:
+          - "Estágiário de DevOps, auxiliava na parte de consultoria de DevOps para empresas estrangeiras que contravam o serviço da [BairesDev](https://www.bairesdev.com)."
+          - "Desenvolvimento de ambiente para CI/CD, utilizando GitHub Action/Workflow;"
+          - "Integração do GitHub com Slack;"
+          - "Configuração e Manutenção de repositórios e organizações do GitHub utilizando Terraform;"
+
+      - company: "Fundação de Amparo à Pesquisa do Estado de São Paulo - FAPESP"
+        position: "Pesquisador"
+        location: "São José dos Campos, SP"
+        start_date: "2023-10"
+        end_date: "2023-12"
+        highlights:
+          - "Bolsa CNPq movida para FAPESP. Bolsista na categoria Iniciação Científica."
+          - "Criação de uma rede privada Blockchain, utilizando a tecnologia Hyperledger Besu;"
+          - "Conteinerização dos nós da rede utilizando Docker;"
+          - "Implementação destes contêineres em Cloud – Microsoft Azure;"
+          - "Desenvolvimento de Smart Contracts Ethereum em Solidity."
+
+      - company: "Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq"
+        position: "Pesquisador"
+        location: "São José dos Campos, SP"
+        start_date: "2022-08"
+        end_date: "2023-09"
+        highlights:
+          - "Bolsista na categoria Iniciação Tecnológica."
+          - "Desenvolvimento de uma aplicação WEB3, utilizando HTML, CSS, JavaScript e TypeScript com o Framework React."
+          - "Desenvolvimento de uma API em Rust,para uso em conjunto com o frontend em React."
+          - "Desenvolvimento de Smart Contracts em Rust, na rede Blockchain Solana."
+
+      - company: "Grupo Hydrostec"
+        position: "Estagiário Técnico em Manutenção"
+        location: "Taubaté, SP"
+        start_date: "2021-12"
+        end_date: "2022-05"
+        highlights:
+          - "Atividades de gestão, tais como controle de equipamentos em manutenção externa, compras realizadas pelo setor, manutenção preventiva etc."
+          - "Controle de notas fiscais, negociação e compra/contrato de equipamentos e serviços externos;"
+          - "Utilização do Software ERP – Senior Sapiens – para geração de solicitações de Ordem de Compra, Ordem de Serviço (OS) e requisição de materiais do estoque."
+
+    Projetos:
+      - name: "[Compilador](https://github.com/CaioBonani/compiler)"
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - "Desenvolvimento de um compilador para a linguagem C- (c menos), baseado no compilador Tiny. C menos é uma linguagem baseada em C puro, porém reduzida."
+          - "Desenvolvimento das 3 etapas de compilação, Análise Léxica, Análise Sintática e Análise Semântica. Além da Árvore Sintática Abstrata (AST), Tabela de Símbolos e Código intermediário"
+          - "Ferramentas Utilizadas: C, Makefile, Flex e Bison."
+
+    Conhecimentos:
+      - label: "Linguagens"
+        details: "C/C++, Python, Go, JavaScript/TypeScript, SQL, Rust e Java."
+      - label: "Tecnologias"
+        details: "Linux, Git, REST APIs, Apache NiFi, SonarQube, Docker, Cloud, DevOps, Terraform."
+design:
+  theme: "sb2nov"
+  page:
+    size: "a4"
+    top_margin: "2cm"
+    bottom_margin: "2cm"
+    left_margin: "2cm"
+    right_margin: "2cm"
+    show_page_numbering: false
+    show_last_updated_date: true
+  colors:
+    text: "rgb(0, 0, 0)"
+    name: "rgb(0, 0, 0)"
+    connections: "rgb(0, 0, 0)"
+    section_titles: "rgb(0, 0, 0)"
+    links: "rgb(0, 79, 144)"
+    last_updated_date_and_page_numbering: "rgb(128, 128, 128)"
+  text:
+    font_family: "New Computer Modern"
+    font_size: "10pt"
+    leading: "0.6em"
+    alignment: "justified"
+    date_and_location_column_alignment: "right"
+  links:
+    underline: false
+    use_external_link_icon: true
+  header:
+    name_font_family: "New Computer Modern"
+    name_font_size: "30pt"
+    name_bold: true
+    # small_caps_for_name: false
+    photo_width: "3.5cm"
+    vertical_space_between_name_and_connections: "0.7cm"
+    vertical_space_between_connections_and_first_section: "0.7cm"
+    horizontal_space_between_connections: "0.5cm"
+    connections_font_family: "New Computer Modern"
+    separator_between_connections: ""
+    use_icons_for_connections: true
+    # use_urls_as_placeholders_for_connections: false
+    # make_connections_links: true
+    alignment: "center"
+  section_titles:
+    type: "with-full-line"
+    font_family: "New Computer Modern"
+    font_size: "1.4em"
+    bold: true
+    small_caps: false
+    line_thickness: "0.5pt"
+    vertical_space_above: "0.5cm"
+    vertical_space_below: "0.3cm"
+  entries:
+    date_and_location_width: "4.15cm"
+    left_and_right_margin: "0.2cm"
+    horizontal_space_between_columns: "0.1cm"
+    vertical_space_between_entries: "1.5em"
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: "◦"
+    # nested_bullet: "-"
+    top_margin: "0.25cm"
+    left_margin: "0.4cm"
+    vertical_space_between_highlights: "0.25cm"
+    horizontal_space_between_bullet_and_highlight: "0.5em"
+    summary_left_margin: "0cm"
+  entry_types:
+    one_line_entry:
+      template: "**LABEL:** DETAILS"
+    education_entry:
+      main_column_first_row_template: |-
+        **INSTITUTION**
+        *DEGREE em AREA*
+      degree_column_template:
+      degree_column_width: "1cm"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    normal_entry:
+      main_column_first_row_template: "**NAME**"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    experience_entry:
+      main_column_first_row_template: |-
+        **POSITION**
+        *COMPANY*
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+locale:
+  phone_number_format: "national"
+  page_numbering_template: NAME - Página PAGE_NUMBER de TOTAL_PAGES
+  last_updated_date_template: Última atualização em TODAY
+  date_template: "MONTH_ABBREVIATION YEAR"
+  abbreviations_for_months:
+    - "Jan"
+    - "Fev"
+    - "Mar"
+    - "Abr"
+    - "Maio"
+    - "Jun"
+    - "Jul"
+    - "Ago"
+    - "Set"
+    - "Out"
+    - "Nov"
+    - "Dez"
+  full_names_of_months:
+    - "Janeiro"
+    - "Fevereiro"
+    - "Março"
+    - "Abril"
+    - "Maio"
+    - "Junho"
+    - "Julho"
+    - "Agosto"
+    - "Setembro"
+    - "Outubro"
+    - "Novembro"
+    - "Dezembro"
+  month: "mês"
+  months: "meses"
+  year: "ano"
+  years: "anos"
+  present: "presente"
+  to: "-"
+  language: "br"
