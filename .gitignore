@@ -9,3 +9,5 @@ english_pdf/*.typ
 english_pdf/*.png
 english_pdf/*.html
 english_pdf/*.md
+
+.DS_Store
