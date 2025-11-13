@@ -11,7 +11,7 @@ cv:
 
   sections:
     Resumo:
-      - "Bacharel em Ciência e Tecnologia e cursando Ciência da Computação pelo Instituto de Ciência e Tecnologia (ICT-UNIFESP) de São José dos Campos, SP. Também Técnico em Mecânica e Segurança do Trabalho.  Curioso, Erudito e Apaixonado por conhecimento. Desde sempre busco todo tipo de informação. Meus interesses são, principalmente, em Desenvolvimento de Software (foco em Backend, criação de APIs e bancos de dados), Infraestrutura/Cloud/DevOps e Arquitetura de Sistemas/Requisitos. Possuo conhecimento em diversos(as) conceitos, tecnologias, ferramentas e linguagens de programações. Aprendizado rápido em ambientes novos e facilidade na comunicação com diferentes times e áreas."
+      - "Bacharel em Ciência e Tecnologia e finalizando o curso de Ciência da Computação pelo Universidade Federal de São Paulo. Também Técnico em Mecânica e Segurança do Trabalho. Desde sempre busco todo tipo de informação. Meus interesses são, principalmente, em Desenvolvimento de Software (foco em Backend, criação de APIs e bancos de dados), Infraestrutura/Cloud/DevOps e Arquitetura de Sistemas/Requisitos. Possuo conhecimento em diversos(as) conceitos, tecnologias, ferramentas e linguagens de programações. Aprendizado rápido em ambientes novos e facilidade na comunicação com diferentes times e áreas."
 
     Formação Acadêmica:
       - institution: "Universidade Federal de São Paulo (UNIFESP)"
@@ -44,10 +44,26 @@ cv:
         end_date: 2019
 
     Experiência:
+      - company: "Fibrasil Infraestrutura e Fibra Ótica"
+        position: "Analista de Sistemas Júnior"
+        location: "Remoto"
+        start_date: "2025-05"
+        # end_date: "2025-07"
+        highlights:
+          - "Analista de Sistemas no setor de Arquitetura e Data Analytics."
+          - "Responsável pela criação de fluxos operacionais utilizando a ferramenta Apache NiFi. Integrando diferentes sistemas e fontes de dados."
+          - "Responsável pela manutenção e monitoramento dos fluxos de dados já existentes."
+          - "Documentação de processos."
+          - "Configuração e uso do ambiente Cloud de Data Analytics, no Google Cloud Plataform (BigQuery, Cloud Run, Cloud Functions, Cloud Storage, Composer (Airflow, Dataproc (spark), IAM, Cloud Scheduler etc)."
+          - "Configuração do ambiente DevOps (Pipelines CI/CD) no Azure DevOps."
+          - "Desenvolvimento de scripts em Python e Shell Script."
+          - "Desenvolvimento de soluções de IA (Inteligência Artificial) para reconhecimento de imagens e extração de textos (OCR)."
+          - "Desenvolvimento de Agentes de IA."
       - company: "Freelance"
         position: "Backend Software Engineer e DevOps/Cloud Engineer"
         location: "Remoto"
         start_date: "2024-12"
+        end_date: "2025-04"
         highlights:
           - "Desenvolvimento do Backend e responsável pela parte de Infraestrutura Cloud/DevOps do site da granja Ovo na Mesa. Empresa localizada em Jacareí, no estado de São Paulo."
           - "Desenvolvimento de APIs utilizando GO e as bibliotecas GIN e GORM."
@@ -63,6 +79,7 @@ cv:
         position: "Estagiário em Architecture e Data Analytics"
         location: "Remoto"
         start_date: "2024-04"
+        end_date: "2025-07"
         highlights:
           - "Estagiário nas áreas de arquitetura e análise de dados. FiBrasil é uma Joint-Venture, entre a Telefónica(Espanha)/Vivo(Brasil) e um fundo de investimentos canadense, da área de Telecomunicaçõe, oferencendo serviços de Fibra Neutra."
           - "Elaboração de desenhos de arquitetura de Softwares/Processos."
